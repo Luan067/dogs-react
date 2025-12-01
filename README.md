@@ -1,28 +1,38 @@
 # Dogs React 🐶
 
-Projeto desenvolvido em React com Vite durante estudos de front-end.
+Projeto desenvolvido em React com Vite.
 
 Uma rede social para cachorros onde é possível postar fotos, comentar e interagir com outros usuários.
 
 ---
 
-## Acesse o site
+## • Projeto online •
 
-https://luan067.github.io/dogs-react/
-
----
-
-## Tecnologias
-
-- React
-- Vite
-- React Router
-- GitHub Actions
-- GitHub Pages
+https://luan067-dogs.vercel.app
 
 ---
 
-## Como rodar localmente
+## • Tecnologias •
+
+### Front-end
+• React  
+• Vite  
+• React Router
+
+---
+
+## • Objetivos do projeto •
+
+Aplicação desenvolvida para prática de:
+
+• Componentização
+• Hooks customizados
+• Rotas SPA
+• Consumo de APIs
+• Pipeline de deploy em produção
+
+---
+## • Como rodar localmente •
 
 ```bash
 npm install
