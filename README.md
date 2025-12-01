@@ -25,11 +25,11 @@ https://luan067-dogs.vercel.app
 
 Aplicação desenvolvida para prática de:
 
-• Componentização
-• Hooks customizados
-• Rotas SPA
-• Consumo de APIs
-• Pipeline de deploy em produção
+• Componentização  
+• Hooks customzados  
+• Rotas SPA  
+• Consumo de APIs  
+• Pipeline de deploy em produção  
 
 ---
 ## • Como rodar localmente •
