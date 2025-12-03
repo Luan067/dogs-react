@@ -17,7 +17,7 @@ https://luan067-dogs.vercel.app
 ### Front-end
 • React  
 • Vite  
-• React Router
+• React Router  
 • CSS Modules
 
 ---
