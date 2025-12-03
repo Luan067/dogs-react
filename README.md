@@ -18,6 +18,7 @@ https://luan067-dogs.vercel.app
 • React  
 • Vite  
 • React Router
+• CSS Modules
 
 ---
 
@@ -25,6 +26,7 @@ https://luan067-dogs.vercel.app
 
 Aplicação desenvolvida para prática de:
 
+• API REST  
 • Componentização  
 • Hooks customzados  
 • Rotas SPA  
@@ -32,9 +34,16 @@ Aplicação desenvolvida para prática de:
 • Pipeline de deploy em produção  
 
 ---
-## • Como rodar localmente •
+## ▶️ Como rodar localmente
+
+### Pré-requisitos
+- Git instalado
+- Node.js 18+ instalado
+
+### Passo a passo
 
 ```bash
+git clone https://github.com/Luan067/dogs-react.git
+cd dogs-react
 npm install
 npm run dev
-```
